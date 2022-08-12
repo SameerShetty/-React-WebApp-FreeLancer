@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-WebApp-FreeLancer/static/css/main.94b071f3.css",
+    "main.js": "/React-WebApp-FreeLancer/static/js/main.630744bc.js",
+    "static/media/bg-img.jpg": "/React-WebApp-FreeLancer/static/media/bg-img.41774d04ab4f84c9fd39.jpg",
+    "static/media/service-bg.jpg": "/React-WebApp-FreeLancer/static/media/service-bg.244b95eb0179d74e84fe.jpg",
+    "index.html": "/React-WebApp-FreeLancer/index.html",
+    "main.94b071f3.css.map": "/React-WebApp-FreeLancer/static/css/main.94b071f3.css.map",
+    "main.630744bc.js.map": "/React-WebApp-FreeLancer/static/js/main.630744bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94b071f3.css",
+    "static/js/main.630744bc.js"
+  ]
+}
